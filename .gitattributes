@@ -1,0 +1,8 @@
+*.h linguist-detectable=false
+*.cc linguist-detectable=false
+*.cpp linguist-detectable=false
+*.cmake linguist-detectable=false
+
+CMakeLists.txt linguist-detectable=false
+*.html linguist-detectable=false
+Podfile linguist-detectable=false
